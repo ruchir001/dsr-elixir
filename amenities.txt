@@ -1,5 +1,5 @@
 1:HL["https://ruchir001.github.io/dsr-elixir/_next/static/css/e18b14f2a36766d8.css","style",{"crossOrigin":""}]
-0:["7b1vysBJrlSmeGydMv6aH",[[["",{"children":["amenities",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"https://ruchir001.github.io/dsr-elixir/_next/static/css/e18b14f2a36766d8.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
+0:["hDhl3d9wT5encu-PcreIm",[[["",{"children":["amenities",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"https://ruchir001.github.io/dsr-elixir/_next/static/css/e18b14f2a36766d8.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
 4:HL["https://ruchir001.github.io/dsr-elixir/_next/static/css/bd85c576198fe6dd.css","style",{"crossOrigin":""}]
 5:"$Sreact.suspense"
 6:I[6954,[],""]
